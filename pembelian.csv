@@ -1,0 +1,4 @@
+ID Pembelian;ID Barang;Nama Barang;Tanggal Pembelian;Jumlah Pembelian;Harga Satuan;Total Harga
+P001;1;Barang A;01/01/2024;50;10000;500000
+P002;2;Barang B;02/01/2024;30;20000;600000
+P003;3;Barang C;03/01/2024;20;15000;300000

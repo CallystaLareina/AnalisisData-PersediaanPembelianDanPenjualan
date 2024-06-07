@@ -1,0 +1,4 @@
+ID Barang;Nama Barang;Kategori;Stok Awal;Stok Masuk;Stok Keluar;Stok Akhir
+1;Barang A;Kategori 1;100;50;30;120
+2;Barang B;Kategori 2;200;30;50;180
+3;Barang C;Kategori 1;150;20;40;130

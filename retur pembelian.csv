@@ -1,0 +1,4 @@
+ID Retur Pembelian;ID Pembelian;ID Barang;Nama Barang;Tanggal Retur;Jumlah Retur;Alasan Retur
+RP001;P001;1;Barang A;05/01/2024;5;Rusak
+RP002;P002;2;Barang B;06/01/2024;3;Tidak Sesuai
+RP003;P003;3;Barang C;07/01/2024;2;Expired

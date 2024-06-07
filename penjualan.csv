@@ -1,0 +1,4 @@
+ID Penjualan;ID Barang;Nama Barang;Tanggal Penjualan;Jumlah Penjualan;Harga Satuan;Total Harga
+J001;1;Barang A;08/01/2024;30;12000;360000
+J002;2;Barang B;09/01/2024;50;22000;1100000
+J003;3;Barang C;10/01/2024;40;18000;720000
