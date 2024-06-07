@@ -114,3 +114,17 @@ Stok awal Barang C pada periode 1 adalah 50.
 Stok akhir Barang C pada periode 50 adalah 25.
 
 Stok Barang C mengalami penurunan secara bertahap sepanjang periode.
+
+# Tahapan Analisis Data
+
+Langkah 1: Mengumpulkan data
+
+Langkah 2: Menyiapkan data
+
+Langkah 3: Menghitung stok akhir
+
+Langkah 4: Membuat visualisasi
+
+Langkah 5: Menampilkan hasil analisis
+
+Langkah 6: Interpretasi hasil
