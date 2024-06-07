@@ -1,7 +1,7 @@
 # PengkodeanDanPemrograman-AnalisisData
-# Callysta Lareina Arianto
-# 12030122130172
-# kelas F
+Nama: Callysta Lareina Arianto
+NIM: 12030122130172
+Kelas:  kelas F
 
 
 # Kasus:
